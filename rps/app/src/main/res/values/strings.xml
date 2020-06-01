@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RockPaperScissorsExample</string>
+
+    <string name="add_image">Input Image For RPS Detection</string>
+    <string name="detect_value">Detect</string>
+    <string name="detected_image">Detected Image</string>
+</resources>
